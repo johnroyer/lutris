@@ -1,4 +1,4 @@
-# generated on Wed 04 Nov 2020 10:28:20 AM UTC
+# generated on Mon 22 Feb 2021 05:47:23 AM UTC
 
 ./share/applications/net.lutris.Lutris.desktop
 ./share/metainfo/net.lutris.Lutris.metainfo.xml
@@ -88,7 +88,6 @@
 ./lutris/migrations/mess_to_mame.py
 ./lutris/migrations/migrate_hidden_ids.py
 ./lutris/migrations/migrate_steam_appids.py
-./lutris/platforms.py
 ./lutris/runner_interpreter.py
 ./lutris/runners/atari800.py
 ./lutris/runners/commands/dosbox.py
@@ -96,6 +95,7 @@
 ./lutris/runners/commands/wine.py
 ./lutris/runners/dolphin.py
 ./lutris/runners/dosbox.py
+./lutris/runners/easyrpg.py
 ./lutris/runners/fsuae.py
 ./lutris/runners/hatari.py
 ./lutris/runners/__init__.py
@@ -127,14 +127,23 @@
 ./lutris/runners/zdoom.py
 ./lutris/runtime.py
 ./lutris/services/base.py
+./lutris/services/battlenet.py
+./lutris/services/bethesda.py
+./lutris/services/dolphin.py
+./lutris/services/egs.py
 ./lutris/services/gog.py
 ./lutris/services/humblebundle.py
 ./lutris/services/__init__.py
+./lutris/services/itchio.py
 ./lutris/services/lutris.py
+./lutris/services/mame.py
+./lutris/services/origin.py
 ./lutris/services/scummvm.py
 ./lutris/services/service_game.py
 ./lutris/services/service_media.py
 ./lutris/services/steam.py
+./lutris/services/tosec.py
+./lutris/services/ubisoft.py
 ./lutris/services/xdg.py
 ./lutris/settings.py
 ./lutris/startup.py
@@ -169,8 +178,8 @@
 ./lutris/util/mame/database.py
 ./lutris/util/mame/ini.py
 ./lutris/util/mame/__init__.py
-./lutris/util/monitor.py
 ./lutris/util/process.py
+./lutris/util/process_watcher.py
 ./lutris/util/resources.py
 ./lutris/util/settings.py
 ./lutris/util/shell.py
@@ -182,6 +191,7 @@
 ./lutris/util/steam/watcher.py
 ./lutris/util/strings.py
 ./lutris/util/system.py
+./lutris/util/test_config.py
 ./lutris/util/timer.py
 ./lutris/util/urlhandler.py
 ./lutris/util/wine/cabinstall.py
