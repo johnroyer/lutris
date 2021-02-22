@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: lutris\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-22 13:52+0800\n"
-"PO-Revision-Date: 2021-02-22 14:00+0800\n"
+"PO-Revision-Date: 2021-02-22 14:07+0800\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -331,23 +331,23 @@ msgstr ""
 
 #: lutris/game_actions.py:70 lutris/gui/installerwindow.py:425
 msgid "Create desktop shortcut"
-msgstr ""
+msgstr "建立桌面捷徑"
 
 #: lutris/game_actions.py:75
 msgid "Delete desktop shortcut"
-msgstr ""
+msgstr "移除桌面捷徑"
 
 #: lutris/game_actions.py:80 lutris/gui/installerwindow.py:426
 msgid "Create application menu shortcut"
-msgstr ""
+msgstr "建立主選單捷徑"
 
 #: lutris/game_actions.py:85
 msgid "Delete application menu shortcut"
-msgstr ""
+msgstr "移除主選單捷徑"
 
 #: lutris/game_actions.py:88
 msgid "Install another version"
-msgstr ""
+msgstr "安裝其他版本"
 
 #: lutris/game_actions.py:90
 msgid "View on Lutris.net"
