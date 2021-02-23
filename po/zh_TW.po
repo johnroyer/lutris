@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: lutris\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-22 13:52+0800\n"
-"PO-Revision-Date: 2021-02-22 14:17+0800\n"
+"PO-Revision-Date: 2021-02-23 12:16+0800\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -134,7 +134,7 @@ msgstr ""
 
 #: share/lutris/ui/lutris-window.ui:93
 msgid "Your Library"
-msgstr ""
+msgstr "你的收藏庫"
 
 #: share/lutris/ui/lutris-window.ui:204
 msgid "Search games"
@@ -159,23 +159,23 @@ msgstr ""
 #: share/lutris/ui/lutris-window.ui:418 lutris/gui/config/common.py:149
 #: lutris/gui/views/list.py:44 lutris/gui/views/list.py:158
 msgid "Name"
-msgstr ""
+msgstr "名稱"
 
 #: share/lutris/ui/lutris-window.ui:433 lutris/gui/views/list.py:45
 msgid "Year"
-msgstr ""
+msgstr "年代"
 
 #: share/lutris/ui/lutris-window.ui:448 lutris/gui/views/list.py:48
 msgid "Last Played"
-msgstr ""
+msgstr "最後遊玩時間"
 
 #: share/lutris/ui/lutris-window.ui:463 lutris/gui/views/list.py:50
 msgid "Installed At"
-msgstr ""
+msgstr "安裝日期"
 
 #: share/lutris/ui/lutris-window.ui:478 lutris/gui/views/list.py:52
 msgid "Play Time"
-msgstr ""
+msgstr "總遊玩時間"
 
 #: share/lutris/ui/lutris-window.ui:507
 msgid "_Installed Games Only"
@@ -622,19 +622,19 @@ msgstr ""
 
 #: lutris/gui/config/common.py:105
 msgid "Show Tray Icon"
-msgstr ""
+msgstr "顯示工作列圖示"
 
 #: lutris/gui/config/common.py:110
 msgid "Lutris preferences"
-msgstr ""
+msgstr "Lutris 偏好設定"
 
 #: lutris/gui/config/common.py:123
 msgid "Copy System Info"
-msgstr ""
+msgstr "複製系統資訊"
 
 #: lutris/gui/config/common.py:129
 msgid "System Information"
-msgstr ""
+msgstr "系統資訊"
 
 #: lutris/gui/config/common.py:160
 msgid "Identifier"
